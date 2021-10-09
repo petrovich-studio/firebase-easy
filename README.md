@@ -4,7 +4,7 @@ npm module.
 RU: firebase-esay модуль для упрощения работы с кодом.
 EN: firebase is an easy module to simplify working with code.
 
-Пример/Example:
+# Пример/Example:
 
 import { appInit, auth, rtdb, firestore, storage, msg } from 'firebase-easy';
 
