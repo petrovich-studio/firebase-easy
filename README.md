@@ -1,0 +1,2 @@
+# firebase-easy
+npm module
